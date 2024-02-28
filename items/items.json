@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Red Orb",
+    "type": "toggle",
+    "img": "images/Red_Orb.png",
+    "codes": "rorb"
+  },
+  {
+    "name": "Purple Orb",
+    "type": "toggle",
+    "img": "images/Purple_Orb.png",
+    "codes": "porb"
+  },
+  {
+    "name": "Blue Orb",
+    "type": "toggle",
+    "img": "images/Blue_Orb.png",
+    "codes": "borb"
+  },
+  {
+    "name": "Green Orb",
+    "type": "toggle",
+    "img": "images/Green_Orb.png",
+    "codes": "gorb"
+  },
+  {
+    "name": "Yellow Orb",
+    "type": "toggle",
+    "img": "images/Yellow_Orb.png",
+    "codes": "yorb"
+  },
+  {
+    "name": "Dragon Crest",
+    "type": "toggle",
+    "img": "images/Dragon_Crest.png",
+    "codes": "dcrest"
+  },
+  {
+    "name": "\"e\" Tablet",
+    "type": "toggle",
+    "img": "images/E_tablet.png",
+    "codes": "etablet"
+  },
+  {
+    "name": "Curtain Time Bell",
+    "type": "toggle",
+    "img": "images/Curtain_Time_Bell.png",
+    "codes": "ctbell"
+  },
+  {
+    "name": "Unlock Jewel",
+    "type": "toggle",
+    "img": "images/Unlock_Jewel.png",
+    "codes": "ujewel"
+  },
+  {
+    "name": "Whip of Ice",
+    "type": "toggle",
+    "img": "images/Whip_of_Ice.png",
+    "codes": "wice"
+  },
+  {
+    "name": "Whip of Flames",
+    "type": "toggle",
+    "img": "images/Whip_of_Flames.png",
+    "codes": "wflames"
+  },
+  {
+    "name": "\"VI\" Tablet",
+    "type": "toggle",
+    "img": "images/VI_tablet.png",
+    "codes": "vitablet"
+  },
+  {
+    "name": "Yellow Dragon Key",
+    "type": "toggle",
+    "img": "images/Yellow_Dragon_Key.png",
+    "codes": "ykey"
+  },
+  {
+    "name": "White Tiger Key",
+    "type": "toggle",
+    "img": "images/White_Tiger_Key.png",
+    "codes": "wkey"
+  },
+  {
+    "name": "Black Turtle Key",
+    "type": "toggle",
+    "img": "images/Black_Turtle_Key.png",
+    "codes": "blkey"
+  },
+  {
+    "name": "Blue Dragon Key",
+    "type": "toggle",
+    "img": "images/Blue_Dragon_Key.png",
+    "codes": "bkey"
+  },
+  {
+    "name": "Red Phoenix Key",
+    "type": "toggle",
+    "img": "images/Red_Phoenix_Key.png",
+    "codes": "rkey"
+  },
+  {
+    "name": "Wolf's Foot",
+    "type": "toggle",
+    "img": "images/Wolf_Foot.png",
+    "codes": "wfoot"
+  }
+]

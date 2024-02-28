@@ -1,0 +1,13 @@
+﻿{
+  "name": "Castlevania: Lament of Innocence Randomizer",
+  "game_name": "Castlevania: Lament of Innocence",
+  "platform": "Playstation 2",
+  "package_version": "1.0.0",
+  "package_uid": "loi_rando_johnny",
+  "author": "JohnnyGo",
+  "variants": {
+    "standard": {
+      "display_name": "Item Tracker"
+    }
+  }
+}
