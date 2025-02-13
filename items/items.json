@@ -66,6 +66,41 @@
     "codes": "wflames"
   },
   {
+    "name": "Whip of Flames / Ice",
+    "type": "composite_toggle",
+    "codes": "elmwhips",
+    "item_left": "wflames",
+    "item_right": "wice",
+    "images": [
+      {
+        "left": false,
+        "right": false,
+        "img": "images/No_Whip.png"
+      },
+      {
+        "left": true,
+        "right": false,
+        "img": "images/Flame_Only_Whip.png"
+      },
+      {
+        "left": false,
+        "right": true,
+        "img": "images/Ice_Only_Whip.png"
+      },
+      {
+        "left": true,
+        "right": true,
+        "img": "images/Flames_Ice_Whip.png"
+      }
+    ]
+  },
+  {
+    "name": "Vampire Killer",
+    "type": "toggle",
+    "img": "images/Vampire_Killer.png",
+    "codes": "vkiller"
+  },
+  {
     "name": "\"VI\" Tablet",
     "type": "toggle",
     "img": "images/VI_tablet.png",
